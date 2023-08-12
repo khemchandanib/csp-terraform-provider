@@ -1,0 +1,8 @@
+.idea
+.DS_Store
+dist
+
+examples/.terraform
+examples/.terraform.lock.hcl
+examples/terraform.tfstate
+examples/terraform.tfstate.backup
