@@ -1,4 +1,4 @@
-# Terraform Provider Hashicups
+# Terraform Provider CSP
 
 This repo is a companion repo to the [Call APIs with Terraform Providers](https://developer.hashicorp.com/terraform/tutorials/providers) tutorials. 
 
